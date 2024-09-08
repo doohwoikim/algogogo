@@ -19,7 +19,6 @@ function validAnagram(first, second) {
             lookup[letter] -= 1;
         }
     }
-    console.log(lookup)
     
     return true;
 }
