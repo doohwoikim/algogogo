@@ -11,10 +11,10 @@ function countDown(num) {
 countDown(3)
 
 // Iterative Version
-function countDown(num) {
-    for (var i = num; i > 0; i--) {
-        console.log(i);
-    }
-    console.log("All done!")
-}
+// function countDown(num) {
+//     for (var i = num; i > 0; i--) {
+//         console.log(i);
+//     }
+//     console.log("All done!")
+// }
 
